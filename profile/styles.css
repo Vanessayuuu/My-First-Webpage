@@ -1,0 +1,26 @@
+/* This is a CSS comment. Put your CSS styling below this line */
+      h2{
+        color:#C48888;
+      }
+      h3{
+        color:#CF9E9E;
+      }
+      div{
+        color:#7B7B7B;
+      }
+
+      .first-paragraph{
+        color:#CF9E9E;
+      }
+      .coffee-photo{
+        border-radius:50px;
+      }
+      .coffee-video{
+        border-radius:50px;
+      }
+      .main-content{
+        border:2px solid #CF9E9E; padding:10px;
+      }
+      #graduation-photo{
+        float:left;
+      }
